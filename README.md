@@ -43,6 +43,8 @@ Se leen los datos shapefile
       str(data_terr)
 
       plot(st_geometry(data_terr))
+![Rplot 3](https://user-images.githubusercontent.com/77855207/108010435-da3a4800-6fd2-11eb-93ed-2b3920b3d0b8.png)
+
       mapview(st_geometry(data_terr))
 
  Crear buffer - st_buffer()
