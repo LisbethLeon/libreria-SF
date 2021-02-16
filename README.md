@@ -33,6 +33,7 @@ Se leen los datos shapefile
       head(terremtos)
       str(terremtos)
       plot(terremtos)
+![Rplot 2](https://user-images.githubusercontent.com/77855207/108010363-aeb75d80-6fd2-11eb-8db7-62ce4a520e76.png)
 
  Convertimos a un objeto sf
  (Codigo 4326 de la coordenada geografica WGS 84)
