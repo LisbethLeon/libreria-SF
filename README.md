@@ -52,6 +52,8 @@ Se leen los datos shapefile
  Crear buffer - st_buffer()
  
       mapview(st_buffer(data_terr, 1))
+      
+![Rplot 5](https://user-images.githubusercontent.com/77855207/108011986-40749a00-6fd6-11eb-8558-a0f2492aa82e.png)
 
  Extraer centroides - st_centroid()
  
