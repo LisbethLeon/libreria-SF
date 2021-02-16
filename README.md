@@ -46,6 +46,8 @@ Se leen los datos shapefile
 ![Rplot 3](https://user-images.githubusercontent.com/77855207/108010435-da3a4800-6fd2-11eb-93ed-2b3920b3d0b8.png)
 
       mapview(st_geometry(data_terr))
+      
+![Rplot 4](https://user-images.githubusercontent.com/77855207/108011641-82e9a700-6fd5-11eb-9042-e61b978b87bd.png)
 
  Crear buffer - st_buffer()
  
